@@ -15,7 +15,7 @@ In the Client Folder create .env file and put this code inside it.
 ```
 REACT_APP_SERVER_DOMAIN='<server_domain>' # example 'http://localhost:8080'
 ```
-
+# Apna Project
 
 After that create a file in the Server Folder with the name config.js and put the below code inside it.
 
